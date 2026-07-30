@@ -59,3 +59,11 @@ I'm following a structured roadmap toward becoming an AI Security Engineer throu
 - ⏳ Phase 5: AI Security Specialization
 
 Every completed phase is supported by hands-on projects, documentation, and version-controlled work published on GitHub.
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/haseeb-ullah-shah-a9542b22a
+- GitHub: https://github.com/haseeb-sec
+- TryHackMe: https://tryhackme.com/p/legalproserveweb
+
+I'm always open to connecting with developers, cybersecurity professionals, AI enthusiasts, entrepreneurs, and lifelong learners who enjoy building practical solutions and sharing knowledge.
