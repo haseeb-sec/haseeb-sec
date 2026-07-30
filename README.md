@@ -4,7 +4,9 @@ I'm a Software Engineering student from Pakistan, building toward a career in AI
 
 I believe the best way to learn is by building real tools, documenting the journey, and understanding the "why" behind every concept rather than simply completing courses.
 
-My GitHub documents my progress as I develop practical skills in Linux, Python, Networking, Cybersecurity, Artificial Intelligence, and Cloud Security.
+My GitHub documents my learning journey through practical projects, technical documentation, and continuous progress as I build expertise in Linux, Python, Networking, Cybersecurity, Artificial Intelligence, and Cloud Security.
+
+---
 
 ## Current Focus
 
@@ -13,22 +15,29 @@ My GitHub documents my progress as I develop practical skills in Linux, Python, 
 - Developing a strong foundation in AI Security Engineering
 - Documenting every project and learning milestone on GitHub
 
+---
+
 ## Tech Stack
 
-**Languages**
+### Languages
+
 - Python
 - Bash
 
-**Operating Systems**
+### Operating Systems
+
 - Ubuntu 24.04 LTS (WSL2)
 - Windows 10
 
-**Areas of Study**
+### Areas of Study
+
 - Linux
 - Networking
 - Cybersecurity
 - Artificial Intelligence
 - Cloud Security
+
+---
 
 ## Featured Repositories
 
@@ -36,7 +45,7 @@ My GitHub documents my progress as I develop practical skills in Linux, Python, 
 A structured record of my journey toward becoming an AI Security Engineer, including projects, progress logs, and my long-term learning roadmap.
 
 ### 🌐 Web Security Header Analyzer
-A Python tool that analyzes HTTP security headers, identifies missing protections, and includes professional security findings based on real assessment results.
+A Python tool that analyzes HTTP security headers, identifies missing security protections, and includes professional security findings based on real assessment results.
 
 ### 🔍 DNS Reconnaissance Tool
 A command-line reconnaissance tool that performs DNS resolution, WHOIS lookups, HTTPS verification, and generates reconnaissance reports.
@@ -46,6 +55,11 @@ A Python-based TCP port scanner that uses multithreading to efficiently identify
 
 ### 📄 Log Analyzer
 A command-line security tool that analyzes web server logs, detects suspicious activity, identifies bots, and generates security reports.
+
+### 🖥️ Linux Security Automation
+A collection of Bash scripts for system information gathering, security auditing, log analysis, and Linux automation.
+
+---
 
 ## Learning Roadmap
 
@@ -58,12 +72,14 @@ I'm following a structured roadmap toward becoming an AI Security Engineer throu
 - ⏳ Phase 4: Cloud Security
 - ⏳ Phase 5: AI Security Specialization
 
-Every completed phase is supported by hands-on projects, documentation, and version-controlled work published on GitHub.
+Every completed phase is supported by hands-on projects, technical documentation, and version-controlled work published on GitHub.
+
+---
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/haseeb-ullah-shah-a9542b22a
-- GitHub: https://github.com/haseeb-sec
-- TryHackMe: https://tryhackme.com/p/legalproserveweb
+- LinkedIn: <https://www.linkedin.com/in/haseeb-ullah-shah-a9542b22a>
+- GitHub: <https://github.com/haseeb-sec>
+- TryHackMe: <https://tryhackme.com/p/legalproserveweb>
 
-I'm always open to connecting with developers, cybersecurity professionals, AI enthusiasts, entrepreneurs, and lifelong learners who enjoy building practical solutions and sharing knowledge.
+Open to connecting with security professionals, developers, and anyone working in AI or cybersecurity.
