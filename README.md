@@ -44,7 +44,7 @@ My GitHub documents my learning journey through practical projects, technical do
 ### 📘 Learning Journal
 A structured record of my journey toward becoming an AI Security Engineer, including projects, progress logs, and my long-term learning roadmap.
 
-### 🌐 Web Security Header Analyzer
+### 🌐 [Web Security Header Analyzer](https://github.com/haseeb-sec/learning-journal/tree/main/web-request-tool)
 A Python tool that analyzes HTTP security headers, identifies missing security protections, and includes professional security findings based on real assessment results.
 
 ### 🔍 DNS Reconnaissance Tool
