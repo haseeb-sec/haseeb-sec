@@ -46,3 +46,16 @@ A Python-based TCP port scanner that uses multithreading to efficiently identify
 
 ### 📄 Log Analyzer
 A command-line security tool that analyzes web server logs, detects suspicious activity, identifies bots, and generates security reports.
+
+## Learning Roadmap
+
+I'm following a structured roadmap toward becoming an AI Security Engineer through practical projects and continuous learning.
+
+- ✅ Phase 1: Linux, Networking, and Python
+- ✅ Phase 1.5: Security Foundations (CIA Triad & Professional Security Reporting)
+- 🔄 Phase 2: Core Cybersecurity
+- ⏳ Phase 3: Artificial Intelligence & Machine Learning
+- ⏳ Phase 4: Cloud Security
+- ⏳ Phase 5: AI Security Specialization
+
+Every completed phase is supported by hands-on projects, documentation, and version-controlled work published on GitHub.
