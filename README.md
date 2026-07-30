@@ -12,3 +12,20 @@ My GitHub documents my progress as I develop practical skills in Linux, Python, 
 - Learning Linux and networking through hands-on labs
 - Developing a strong foundation in AI Security Engineering
 - Documenting every project and learning milestone on GitHub
+
+## Tech Stack
+
+**Languages**
+- Python
+- Bash
+
+**Operating Systems**
+- Ubuntu 24.04 LTS (WSL2)
+- Windows 10
+
+**Areas of Study**
+- Linux
+- Networking
+- Cybersecurity
+- Artificial Intelligence
+- Cloud Security
