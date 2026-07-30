@@ -41,22 +41,22 @@ My GitHub documents my learning journey through practical projects, technical do
 
 ## Featured Repositories
 
-### 📘 Learning Journal
+### 📘 [Learning Journal](https://github.com/haseeb-sec/learning-journal)
 A structured record of my journey toward becoming an AI Security Engineer, including projects, progress logs, and my long-term learning roadmap.
 
 ### 🌐 [Web Security Header Analyzer](https://github.com/haseeb-sec/learning-journal/tree/main/web-request-tool)
 A Python tool that analyzes HTTP security headers, identifies missing security protections, and includes professional security findings based on real assessment results.
 
-### 🔍 DNS Reconnaissance Tool
+### 🔍 [DNS Reconnaissance Tool](https://github.com/haseeb-sec/learning-journal/tree/main/dns-recon-tool)
 A command-line reconnaissance tool that performs DNS resolution, WHOIS lookups, HTTPS verification, and generates reconnaissance reports.
 
-### 🚪 Multithreaded Port Scanner
+### 🚪 [Multithreaded Port Scanner](https://github.com/haseeb-sec/learning-journal/tree/main/port-scanner)
 A Python-based TCP port scanner that uses multithreading to efficiently identify open ports across a target system.
 
-### 📄 Log Analyzer
+### 📄 [Log Analyzer](https://github.com/haseeb-sec/learning-journal/tree/main/log-analyzer)
 A command-line security tool that analyzes web server logs, detects suspicious activity, identifies bots, and generates security reports.
 
-### 🖥️ Linux Security Automation
+### 🖥️ [Linux Security Automation](https://github.com/haseeb-sec/learning-journal/tree/main/shell-scripts)
 A collection of Bash scripts for system information gathering, security auditing, log analysis, and Linux automation.
 
 ---
